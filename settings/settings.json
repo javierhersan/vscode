@@ -1,0 +1,26 @@
+{
+    "files.watcherExclude": {
+        "**/.bloop": true,
+        "**/.metals": true,
+        "**/.ammonite": true
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "extensions.ignoreRecommendations": true,
+    "terminal.integrated.env.windows": {},
+    "workbench.sideBar.location": "right",
+    "workbench.productIconTheme": "fluent-icons",
+    "editor.cursorBlinking": "expand",
+    "editor.linkedEditing": true,
+    "editor.scrollbar.vertical": "auto",
+    "editor.minimap.enabled": false,
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    // "editor.glyphMargin": false,
+    "breadcrumbs.enabled": false,
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "console-ninja.featureSet": "Community",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true
+}

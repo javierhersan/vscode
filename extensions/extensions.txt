@@ -1,0 +1,14 @@
+dbaeumer.vscode-eslint
+esbenp.prettier-vscode
+GitHub.copilot
+GitHub.copilot-chat
+golang.go
+JuanBlanco.solidity
+kisstkondoros.vscode-gutter-preview
+miguelsolorio.fluent-icons
+ms-azuretools.vscode-docker
+pflannery.vscode-versionlens
+usernamehw.errorlens
+WallabyJs.console-ninja
+yzane.markdown-pdf
+zhuangtongfa.material-theme
